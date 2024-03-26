@@ -8,3 +8,9 @@ You can find me too
 I am a data science enthusiast, I currently program in Python and I am here to develop myself
 
 
+### My Work
+
+#Work I do about higher education courses offered in Brazil
+
+https://github.com/CesarRonai/Analysis-of-college-offers-in-Brazil-in-2020
+
