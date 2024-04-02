@@ -10,11 +10,9 @@ I am a data science enthusiast, I currently program in Python and I am here to d
 
 ### 🚀 My Work
 
-Work I do about higher education courses offered in Brazil
+WORK I DO ABOUT HIGHTER EDUCATION COURSES OFFERED IN BRAZIL - https://github.com/CesarRonai/Analysis-of-college-offers-in-Brazil-in-2020
 
-https://github.com/CesarRonai/Analysis-of-college-offers-in-Brazil-in-2020
+WORK ON TIME SERIES ANALYSIS - https://github.com/CesarRonai/TimeSeriesAnalysisInPython
 
-Work on time series analysis
-
-https://github.com/CesarRonai/TimeSeriesAnalysisInPython
+DATABASE CLEANING - https://github.com/CesarRonai/Casos-confirmados-de-doen-as-de-notifica-o-compuls-ria
 
