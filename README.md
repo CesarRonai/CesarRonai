@@ -16,3 +16,5 @@ WORK ON TIME SERIES ANALYSIS - [TimeSeries Analysis In Python](https://github.co
 
 DATABASE CLEANING - [Casos confirmados de doenças notificados](https://github.com/CesarRonai/Casos-confirmados-de-doen-as-de-notifica-o-compuls-ria)
 
+POKEDEX IN PYTHON - [POKEDEX](https://github.com/CesarRonai/Pokedex-in-python)
+
