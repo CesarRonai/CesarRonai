@@ -18,3 +18,5 @@ DATABASE CLEANING - [Casos confirmados de doenças notificados](https://github.c
 
 POKEDEX IN PYTHON - [POKEDEX](https://github.com/CesarRonai/Pokedex-in-python)
 
+My MACHINE LEARNING MODEL TO PREDICT WHICH PATIENTS MAY HAVE DIABETES - [Machine Learning](https://github.com/CesarRonai/MachineLearning)
+
