@@ -10,13 +10,5 @@ I am a data science enthusiast, I currently program in Python and I am here to d
 
 ### 🚀 My Work
 
-WORK I DO ABOUT HIGHTER EDUCATION COURSES OFFERED IN BRAZIL - [Analysis of college offers in Brazil](https://github.com/CesarRonai/Analysis-of-college-offers-in-Brazil-in-2020)
 
-WORK ON TIME SERIES ANALYSIS - [TimeSeries Analysis In Python](https://github.com/CesarRonai/TimeSeriesAnalysisInPython)
-
-DATABASE CLEANING - [Casos confirmados de doenças notificados](https://github.com/CesarRonai/Casos-confirmados-de-doen-as-de-notifica-o-compuls-ria)
-
-POKEDEX IN PYTHON - [POKEDEX](https://github.com/CesarRonai/Pokedex-in-python)
-
-My MACHINE LEARNING MODEL TO PREDICT WHICH PATIENTS MAY HAVE DIABETES - [Machine Learning](https://github.com/CesarRonai/MachineLearning)
 
