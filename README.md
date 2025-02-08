@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cesar Ronai!
 
-🎓 Mechanical Engineer | 📊 Data Science |
+🎓 Mechanical Engineer | 📊 Data Sciencist |
 
 🔬 Researching **Machine Learning for Maintenance & Logistics**  
 📚 Currently pursuing an **MBA in Data Science and Analytics**
